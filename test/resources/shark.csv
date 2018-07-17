@@ -1,0 +1,100 @@
+Shark_Number,Gear_code,Gear_Description,Month,Day,Year,Latitude,Longitude,Location_Code,Location_Description,Sex,Fork_length,Stomach Weight (g),Bait,Note,Shark_Number,Diet_item_number,diet_item,DIet_Category_Code,Diet_Category_Description,Digested_Level_Code,Digested_level_description,item_wgt,item_length,item_width,Comments
+SBK-001,BLL,Bottom Longline,3,4,2010,24.95,-80.35,GOM,Gulf Of Mexico,M,139,795,"BONITO, EEL",,SBK-001,1,EMPTY,,,6,empty,,,,
+SBK-002,BLL,Bottom Longline,3,10,2010,24.42,-82.05,GOM,Gulf Of Mexico,M,137,780,"BONITO, EEL",,SBK-002,1,UFR,UFR,Unidentifiable fish remains,5,well digested. few identifiable parts,1.64,,,"BONE, LENSE, PARASITES PRESENT"
+SBK-003,BLL,Bottom Longline,3,10,2010,24.42,-82.05,GOM,Gulf Of Mexico,M,120,697,"BONITO, EEL",,SBK-003,1,UFR,UFR,Unidentifiable fish remains,4,"flesh, bones, scales etc. in small pieces. measurements not possible",12.07,,,GILL RAKER
+SBK-004,BLL,Bottom Longline,3,10,2010,24.42,-82.05,GOM,Gulf Of Mexico,M,131,725,"BONITO, EEL",,SBK-004,0,EMPTY,,,6,empty,,,,
+SBK-005,BLL,Bottom Longline,3,10,2010,24.42,-82.05,GOM,Gulf Of Mexico,M,127,712,"BONITO, EEL",,SBK-005,0,EMPTY,,,6,empty,,,,
+SBK-006,BLL,Bottom Longline,3,10,2010,24.42,-82.05,GOM,Gulf Of Mexico,M,136,646,"BONITO, EEL",,SBK-006,0,EMPTY,,,6,empty,,,,
+SBK-007,BLL,Bottom Longline,7,24,2008,28.77,-80.65,SA,South Atlantic,F,150,1049,"SHARK, DRUM, BONITO",,SBK-007,0,EMPTY,,,6,empty,,,,
+SBK-008,BLL,Bottom Longline,7,24,2008,28.77,-80.65,SA,South Atlantic,F,131,658,"SHARK, DRUM, BONITO",,SBK-008,0,EMPTY,,,6,empty,,,,
+SBK-009,BLL,Bottom Longline,3,10,2010,24.42,-82.05,GOM,Gulf Of Mexico,M,128,852,"BONITO, EEL",,SBK-009,0,EMPTY,,,6,empty,,,,
+SBK-010,BLL,Bottom Longline,3,10,2010,24.42,-82.05,GOM,Gulf Of Mexico,M,135,464,"BONITO, EEL",,SBK-010,0,EMPTY,,,6,empty,,,,
+SBK-011,BLL,Bottom Longline,7,17,2008,29.66,-85.2,IP,Indian Pass,M,121,735,N/A,FL does not match GulfSPAN database query.,SBK-011,0,EMPTY,,,6,empty,,,,
+SBK-012,BLL,Bottom Longline,7,24,2008,28.77,-80.65,SA,South Atlantic,F,135,631,"SHARK, DRUM, BONITO",,SBK-012,0,EMPTY,,,6,empty,,,,
+SBK-013,BLL,Bottom Longline,7,17,2008,29.66,-85.2,IP,Indian Pass,M,116,449,N/A,FL does not match GulfSPAN database query.,SBK-013,0,EMPTY,,,6,empty,,,,
+SBK-014,BLL,Bottom Longline,7,17,2008,29.66,-85.2,IP,Indian Pass,F,111,442,N/A,FL does not match GulfSPAN database query.,SBK-014,1,BIVALVE,MOL,Unidentifiable or other mollusc,5,well digested. few identifiable parts,0.01,,,HALF OF BIVALVE SHELL-SMALL
+,,,,,,,,,,,,,,,SBK-014,2,UFR,UFR,Unidentifiable fish remains,4,"flesh, bones, scales etc. in small pieces. measurements not possible",21,,,"MEAT, BONES, 3 LENS, SCALES, PARASITES PRESENT, SAVED 2 SETS OF PHARYNGEAL TEETH"
+SBK-015,BLL,Bottom Longline,9,6,2008,29.42,-85.87,GOM,Gulf Of Mexico,M,126,587,"EEL, SHARK",,SBK-015,0,EMPTY,,,6,empty,,,,
+SBK-016,BLL,Bottom Longline,7,24,2008,28.77,-80.65,SA,South Atlantic,F,131,918,"SHARK, DRUM, BONITO",,SBK-016,1,UFR,UFR,Unidentifiable fish remains,4,"flesh, bones, scales etc. in small pieces. measurements not possible",25,,,"PARASITES PRESENT, PHARYNGEAL TEETH (SAVED), BONES, 2 LENSES, 1 OTOLITH (SAVED), MEAT"
+,,,,,,,,,,,,,,,SBK-016,2,UFR,UFR,Unidentifiable fish remains,5,well digested. few identifiable parts,0.09,,,2 OTOLITHS
+,,,,,,,,,,,,,,,SBK-016,3,UFR,UFR,Unidentifiable fish remains,5,well digested. few identifiable parts,0.2,,,4 LENSES
+SBK-017,BLL,Bottom Longline,7,17,2008,29.66,-85.2,IP,Indian Pass,M,106,171,N/A,,SBK-017,0,EMPTY,,,6,empty,,,,
+SBK-018,GN,Gillnet,8,16,2008,28.279,-80.529,SA,South Atlantic,F,126, ,N/A,,SBK-018,1,LEIOSTOMUS XANTHURUS (SPOT),BEN,Benthic Fish,2,"almost whole, still in large pieces",47.48,,,"BITTEN IN HALF, HEAD, OTOLITHS PULLED (SAVED)"
+,,,,,,,,,,,,,,,SBK-018,2,MICROPOGONIAS UNDULATIS (ATLANTIC CROAKER),BEN,Benthic Fish,2,"almost whole, still in large pieces",40.9,,,"BITTEN IN HALF, HEAD, OTOLITHS PULLED (SAVED)"
+,,,,,,,,,,,,,,,SBK-018,3,MICROPOGONIAS UNDULATIS (ATLANTIC CROAKER),BEN,Benthic Fish,2,"almost whole, still in large pieces",87.4,,,"BITTEN IN HALF, HEAD, OTOLITHS PULLED (SAVED)"
+,,,,,,,,,,,,,,,SBK-018,4,MICROPOGONIAS UNDULATIS (ATLANTIC CROAKER),BEN,Benthic Fish,5,well digested. few identifiable parts,9.33,,,"16 OTOLITHS(SAVED), 16 LENSES, BONES AND SCALES"
+SBK-019,BLL,Bottom Longline,9,5,2008,29.466,-85.883,GOM,Gulf Of Mexico,F,123, ,EEL (CUT),,SBK-019,1,UFR,BEN,Benthic Fish,4,"flesh, bones, scales etc. in small pieces. measurements not possible",7.14,,,"JAW, vertebral column, 1 OTOLITH (SAVED), 2 EYE LENSES"
+SBK-020,BLL,Bottom Longline,8,28,2008,26.733,-83.083,GOM,Gulf Of Mexico,M,142, ,SKATE/RAY (CUT),,SBK-020,2,UFR,PEL,Pelagic Fish,5,well digested. few identifiable parts,3.76,,,"SMALL MEAT BITS W/ BONE, 2 OTOLITHS (SAVED), 4 EYE LENSES"
+SBK-021,BLL,Bottom Longline,8,29,2008,29.783,-86.083,GOM,Gulf Of Mexico,F,115, ,EEL (CUT),,SBK-021,0,EMPTY,,,6,empty,,,,
+SBK-022,BLL,Bottom Longline,12,7,2008,24.4,-81.666,GOM,Gulf Of Mexico,M,137, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-022,0,EMPTY,,,6,empty,,,,
+SBK-023,GN,Gillnet,8,16,2008,28.279,-80.529,SA,South Atlantic,F,111, ,N/A,,SBK-023,1,CENTROPRISTIS STRIATA (BLACK SEA BASS),BEN,Benthic Fish,2,"almost whole, still in large pieces",,120,,"MOSTLY FULL BODY, FLESH, BONES, SCALES, FINS, ETC, TL IS AVERAGE FROM 6 FISH, 8 OTOLITS FROM 5 FISH PULLED (SAVED)"
+,,,,,,,,,,,,,,,SBK-023,2,MICROPOGONIAS UNDULATIS (ATLANTIC CROAKER),BEN,Benthic Fish,5,well digested. few identifiable parts,39.85,,,"6 PAIRS OTOLITHS (SAVED), 4 EYE LENSES, ALSO ONE VERTEBRA W/ FLESH, GILLS, SCALES ATTRIBUTED TO THESE OTOLITHS"
+SBK-024,, ,10,2,2008, , ,GOM,Gulf Of Mexico,M,110, ,,"SPECIMEN FROM DEAN GRUBBS, WEIGHT: 17.46",SBK-024,1,BAGRE MARINUS (GAFFTOPSAIL CATFISH),BEN,Benthic Fish,5,well digested. few identifiable parts,7.47,,,"2 OTOLITHS (SAVED), FIN RAYS AND GILL RAKERS, 2 SPINES"
+,,,,,,,,,,,,,,,SBK-024,2,MICROPOGONIAS UNDULATIS (ATLANTIC CROAKER),BEN,Benthic Fish,5,well digested. few identifiable parts,1.29,,,"4 OTOLITHS (SAVED), 3 EYE LENSES, SEVERAL LOOSE VERTEBRA"
+SBK-025,BLL,Bottom Longline,8,28,2008,26.733,-83.083,GOM,Gulf Of Mexico,M,111, ,SKATE/RAY (CUT),,SBK-025,1,FAMILY TRIGLIDAE (SEA ROBIN),BEN,Benthic Fish,2,"almost whole, still in large pieces",174.5,232,,"FULL BODY BITTEN IN HALF, OTOLITHS PULLED (SAVED)"
+,,,,,,,,,,,,,,,SBK-025,2,UFR,UFR,Unidentifiable fish remains,5,well digested. few identifiable parts,29.44,,,"FLESH AND VERTEBRAL COLUMN, 2 LENSES"
+SBK-026,BLL,Bottom Longline,9,25,2008,29.35,-85.616,GOM,Gulf Of Mexico,F,137, ,"EEL (CUT), SHARK (CUT), CATFISH (CUT)",,SBK-026,0,EMPTY,,,6,empty,,,,
+SBK-027,BLL,Bottom Longline,9,25,2008,29.35,-85.616,GOM,Gulf Of Mexico,F,131, ,"EEL (CUT), SHARK (CUT), CATFISH (CUT)",,SBK-027,1,LEIOSTOMUS XANTHURUS (SPOT),BEN,Benthic Fish,5,well digested. few identifiable parts,0.24,,,"OTOLITHS (SAVED), LENSES"
+,,,,,,,,,,,,,,,SBK-027,2,MICROPOGONIAS UNDULATIS (ATLANTIC CROAKER),BEN,Benthic Fish,5,well digested. few identifiable parts,0.15,,,"OTOLITHS DEGRADED (SAVED), LENSES"
+,,,,,,,,,,,,,,,SBK-027,3,MICROPOGONIAS UNDULATIS (ATLANTIC CROAKER),BEN,Benthic Fish,5,well digested. few identifiable parts,23.22,,,"OTOLITHS (SAVED), LENSES, PHARYNGEAL TEETH, BITS OF FLESH, INDIVIDUAL VERTEBRAE, ONE TAIL, FIN, AND VERTEBRAL COLUMN"
+SBK-028,, ,10,2,2008, , ,GOM,Gulf Of Mexico,F,132, ,,"SPECIMEN FROM DEAN GRUBBS, WEIGHT: 30.54",SBK-028,0,EMPTY,,,6,empty,,,,
+SBK-029,BLL,Bottom Longline,9,25,2008,24.4,-81.666,GOM,Gulf Of Mexico,M,123, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-029,0,EMPTY,,,6,empty,,,,
+SBK-030,BLL,Bottom Longline,9,25,2008,29.35,-85.616,GOM,Gulf Of Mexico,F,124, ,"EEL (CUT), SHARK (CUT), CATFISH (CUT)",,SBK-030,0,EMPTY,,,6,empty,,,,
+SBK-031,BLL,Bottom Longline,12,7,2008,24.4,-81.666,GOM,Gulf Of Mexico,M,109, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-031,2,UFR,UFR,Unidentifiable fish remains,5,well digested. few identifiable parts,10.78,,,"MANY (20-30) INDIVIDUAL VERTEBRA, SMALL BONES, 2 FIN SPINES, 2 PAIRS LENSES"
+SBK-032,BLL,Bottom Longline,12,7,2008,24.4,-81.666,GOM,Gulf Of Mexico,F,121, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-032,1,UFR,UFR,Unidentifiable fish remains,5,well digested. few identifiable parts,1.69,,,"BONES, 1 PAIR LENSES, PIECES OF SKULL/JAW, PARASITES PRESENT (PIC)"
+SBK-033,BLL,Bottom Longline,12,6,2008,24.483,-81.983,GOM,Gulf Of Mexico,F,126, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-033,1,BAIT,BAI,Bait,1,Whole or bitten in half,79.14,,,BAIT FROM LONGLINE
+SBK-034,BLL,Bottom Longline,12,7,2008,24.4,-81.666,GOM,Gulf Of Mexico,M,113, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-034,,EMPTY,,,6,empty,,,,
+SBK-035,BLL,Bottom Longline,12,6,2008,24.483,-81.983,GOM,Gulf Of Mexico,F,147, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-035,1,PEPRILUS SP. (BUTTERFISH),PEL,Pelagic Fish,2,"almost whole, still in large pieces",21.3,,,"BITTEN IN HALF HEAD PORTION, FLESH, BONES, SCALES, OTOLITHS PULLED (SAVED)"
+SBK-036,BLL,Bottom Longline,9,5,2008,29.466,-85.883,GOM,Gulf Of Mexico,F,142, ,EEL (CUT),,SBK-036,1,EMPTY,,,6,empty,,,,
+SBK-037,BLL,Bottom Longline,9,5,2008,29.466,-85.883,GOM,Gulf Of Mexico,M,124, ,EEL (CUT),,SBK-037,1,MICROPOGONIAS UNDULATIS (ATLANTIC CROAKER),BEN,Benthic Fish,5,well digested. few identifiable parts,13.99,,,"vertebral column TO TAIL WITH FLESH, 2 LENSES, 2 OTOLITHS (SAVED)"
+SBK-038,BLL,Bottom Longline,3,12,2010,24.516,-82.05,GOM,Gulf Of Mexico,F,127, ,"LITTLE TUNY/BONITA (CUT), DRUM (CUT)",,SBK-038,0,EMPTY,,,6,empty,,,,
+SBK-039,BLL,Bottom Longline,9,6,2008,29.416,-85.866,GOM,Gulf Of Mexico,F,129, ,"EEL (CUT), SHARK (CUT)",,SBK-039,0,EMPTY,,,6,empty,,,,
+SBK-040,BLL,Bottom Longline,2,15,2010,29.966,-88.266,GOM,Gulf Of Mexico,F,113, ,LADYFISH (CUT),,SBK-040,0,EMPTY,,,6,empty,,,,
+SBK-041,BLL,Bottom Longline,2,14,2010,29.966,-88.266,GOM,Gulf Of Mexico,F,147, ,LADYFISH (CUT),,SBK-041,1,FAMILY ARIIDAE (CATFISH),BEN,Benthic Fish,5,well digested. few identifiable parts,2.86,,,"6 SPINES, 6 OTOLITHS (SAVED)"
+SBK-042,BLL,Bottom Longline,8,29,2008,29.783,-86.083,GOM,Gulf Of Mexico,F,119, ,EEL (CUT),,SBK-042,1,BAIT,BAI,Bait,2,"almost whole, still in large pieces",,,,BAIT FROM LONGLINE
+SBK-043,BLL,Bottom Longline,2,21,2010,29.3,-88.3,GOM,Gulf Of Mexico,M,122, ,JACKS (CUT),,SBK-043,1,UFR,BEN,Benthic Fish,5,well digested. few identifiable parts,1.48,,,"2 OTOLITHS (SAVED), SMALL PORTION OF vertebral column LEADING INTO TAIL/SPINE"
+SBK-044,BLL,Bottom Longline,5,14,2009,24.433,-82.2,GOM,Gulf Of Mexico,M,118, ,"LITTLE TUNY/BONITA (CUT), DRUM (CUT), SHARK (CUT)","NO RECORD OF H11 #148, ASSUMED TO BE H1# 148",SBK-044,1,DIODON SP. (BALLOONFISH),BEN,Benthic Fish,2,"almost whole, still in large pieces",122.93,149,,"FULL BODY WITH SPINES, FINS, FLESH, ETC, LITTLE DIGESTION.  LENGTH IS TOTAL LENGTH"
+SBK-045,BLL,Bottom Longline,2,21,2010,29.3,-88.3,GOM,Gulf Of Mexico,M,132, ,JACKS (CUT),,SBK-045,1,UFR,UFR,Unidentifiable fish remains,2,"almost whole, still in large pieces",38.8,,,"BITTEN IN HALF, HEAD PORTION INTACT W/ SCLAES, ETC  --- NO OTOLITHS"
+SBK-046,BLL,Bottom Longline,2,14,2010,29.966,-88.266,GOM,Gulf Of Mexico,F,119, ,LADYFISH (CUT),,SBK-046,1,FAMILY ARIIDAE (CATFISH),BEN,Benthic Fish,1,Whole or bitten in half,482.3,,,"IN HALF, TAIL PORTION-VERY CLEAN CUT, POSSIBLY BAIT HOWEVER CATFISH NOT RECORDED AS BAIT FOR SET SO ASSUMED TO BE PREY"
+,,,,,,,,,,,,,,,SBK-046,2,UFR,UFR,Unidentifiable fish remains,2,"almost whole, still in large pieces",,,,BODY SEGMENT W/ TAIL
+SBK-047,BLL,Bottom Longline,3,12,2010,24.466,-82.05,GOM,Gulf Of Mexico,M,141, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-047,0,EMPTY,,,6,empty,,,,
+SBK-048,BLL,Bottom Longline,2,14,2010,29.966,-88.266,GOM,Gulf Of Mexico,F,123, ,LADYFISH (CUT),,SBK-048,0,EMPTY,,,6,empty,,,,
+SBK-049,BLL,Bottom Longline,3,12,2010,24.466,-82.05,GOM,Gulf Of Mexico,M,125, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-049,0,EMPTY,,,6,empty,,,,
+SBK-050,BLL,Bottom Longline,3,12,2010,24.466,-82.05,GOM,Gulf Of Mexico,M,114, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-050,0,EMPTY,,,6,empty,,,,
+SBK-051,BLL,Bottom Longline,3,13,2010,24.5,-81.766,GOM,Gulf Of Mexico,F,142, ,SHARK (CUT),,SBK-051,0,EMPTY,,,6,empty,,,,PARASITE PRESENT (WORM)
+SBK-052,BLL,Bottom Longline,8,29,2008,29.783,-86.083,GOM,Gulf Of Mexico,M,120, ,EEL (CUT),,SBK-052,1,BAIT,BAI,Bait,2,"almost whole, still in large pieces",132,,,BAIT FROM LONGLINE
+SBK-053,BLL,Bottom Longline,8,29,2008,27.083,-83.566,GOM,Gulf Of Mexico,F,146, ,SKATE/RAY (CUT),,SBK-053,1,BAIT,BAI,Bait,2,"almost whole, still in large pieces",32.21,,,"BAIT FROM LONGLINE, PARTIALLY DIGESTED"
+SBK-054,BLL,Bottom Longline,3,12,2010,24.466,-82.05,GOM,Gulf Of Mexico,M,132, ,LITTLE TUNY/BONITA,,SBK-054,1,UFR,BEN,Benthic Fish,5,well digested. few identifiable parts,0.86,,,"2 OTOLITHS (SAVED), 1 EYE LENS, PHARENGEAL TEETH, PARASITE PRESENT-WORM"
+SBK-055,BLL,Bottom Longline,2,14,2010,29.966,-88.266,GOM,Gulf Of Mexico,F,119, ,LADYFISH (CUT),,SBK-055,1,SKATE/RAY,ELA,Elasmobranch,2,"almost whole, still in large pieces",295.13,210,185,"RIGHT PECTORAL AND PELVIC FIN, WITH BITE MARKS, SIZE MEASUREMENTS ARE OF THE ACTUAL REMAINS NOT FULL SIZE ESTIMATES"
+SBK-056,BLL,Bottom Longline,9,5,2008,29.466,-85.883,GOM,Gulf Of Mexico,F,124, ,EEL (CUT),,SBK-056,0,EMPTY,,,6,empty,,,,
+SBK-057,BLL,Bottom Longline,3,12,2010,24.466,-82.05,GOM,Gulf Of Mexico,M,126, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-057,0,EMPTY,,,6,empty,,,,
+SBK-058,BLL,Bottom Longline,2,14,2010,29.966,-88.266,GOM,Gulf Of Mexico,F,126, ,LADYFISH,,SBK-058,0,EMPTY,,,6,empty,,,,
+SBK-059,BLL,Bottom Longline,2,21,2010,29.3,-88.3,GOM,Gulf Of Mexico,M,121, ,JACKS (CUT),,SBK-059,0,EMPTY,,,6,empty,,,,
+SBK-060,BLL,Bottom Longline,3,12,2010,24.516,-82.05,GOM,Gulf Of Mexico,F,128, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-060,0,EMPTY,,,6,empty,,,,
+SBK-061,BLL,Bottom Longline,2,14,2010,29.966,-88.266,GOM,Gulf Of Mexico,F,144, ,LADYFISH (CUT),,SBK-061,0,EMPTY,,,6,empty,,,,
+SBK-062,BLL,Bottom Longline,2,21,2010,29.3,-88.3,GOM,Gulf Of Mexico,M,137, ,JACKS (CUT),,SBK-062,1,UFR,BEN,Benthic Fish,1,Whole or bitten in half,287.06,,,"HEAD BITTEN, NO DIGESTION"
+,,,,,,,,,,,,,,,SBK-062,2,UFR,UFR,Unidentifiable fish remains,5,well digested. few identifiable parts,23.27,,,"2 PAIRS EYES, 2 vertebral column W/ FLESH, PARASITE PRESENT-WORM"
+SBK-063,GN,Gillnet,8,17,2008,28.278,-80.611,SA,South Atlantic,F,135, ,N/A,,SBK-063,0,EMPTY,,,6,empty,,,,
+SBK-064,BLL,Bottom Longline,3,12,2010,24.516,-82.05,GOM,Gulf Of Mexico,M,131, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-064,0,EMPTY,,,6,empty,,,,
+SBK-065,BLL,Bottom Longline,2,21,2010,29.3,-88.3,GOM,Gulf Of Mexico,M,114, ,JACKS (CUT),,SBK-065,0,EMPTY,,,6,empty,,,,
+SBK-066,BLL,Bottom Longline,3,12,2010,24.466,-82.05,GOM,Gulf Of Mexico,M,131, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-066,1,EMPTY,,,6,empty,,,,
+SBK-067,BLL,Bottom Longline,2,14,2010,29.966,-88.266,GOM,Gulf Of Mexico,F,133, ,LADYFISH(CUT),,SBK-067,1,UFR,UFR,Unidentifiable fish remains,5,well digested. few identifiable parts,1.75,,,"1 EYE LENS, PIECES OF JAW"
+SBK-068,BLL,Bottom Longline,7,24,2010,28.766,-80.65,SA,South Atlantic,F,137, ,"SHARK (CUT), DRUM (WHOLE),LITTLE TUNY/BONITA (CUT)",,SBK-068,1,UFR,UFR,Unidentifiable fish remains,4,"flesh, bones, scales etc. in small pieces. measurements not possible",7.16,,,vertebral column WITH FLESH
+SBK-069,BLL,Bottom Longline,8,29,2008,27.083,-83.566,GOM,Gulf Of Mexico,F,139, ,SKATE/RAY (CUT),,SBK-069,1,LACHROLAIMUS MAXIMUS (HOGFISH),BEN,Benthic Fish,3,"flesh, bones, scales etc somewhat together",1673,600,,"BITTEN IN HALF, HEAD AND TAIL INTACT w/ MIDDLE MISSING, FIN RAYS + SPINES, BONE REMAINS.  LENGTH IS ESTIMATE BASED ON 275 MM HEAD LENGTH AND 250 MM TAIL LENGTH MEASURED"
+,,,,,,,,,,,,,,,SBK-069,2,SPHYRAENA SP. (BARRACUDA),PEL,Pelagic Fish,4,"flesh, bones, scales etc. in small pieces. measurements not possible",22.19,,,"2 EYE LENS, INTACT LOWER JAWBONE W/ TEETH AND 2 PIECES (EACH SIDE) OF UPPER JAW.  ADDITIONAL @ 2 FRAGMENTS FROM JAW OF ADDITIONAL FISH"
+SBK-070,BLL,Bottom Longline,3,12,2010,24.466,-82.05,GOM,Gulf Of Mexico,M,122, ,"LITTLE TUNY/BONITA (CUT), EEL (CUT)",,SBK-070,1,UFR,BEN,Benthic Fish,5,well digested. few identifiable parts,,,,"1 OTOLITH (SAVED), REMAINS SAME AS ABOVE BECAUSE CANNOT DISTINGUISH REMAINS FOR THE DIFFERENT OTOLITHS"
+,,,,,,,,,,,,,,,SBK-070,2,UFR,BEN,Benthic Fish,5,well digested. few identifiable parts,,,,"2 OTOLITHS (SAVED), REMAINS SAME AS ABOVE BECAUSE CANNOT DISTINGUISH REMAINS FOR THE DIFFERENT OTOLITHS"
+,,,,,,,,,,,,,,,SBK-070,3,UFR,BEN,Benthic Fish,5,well digested. few identifiable parts,,,,"2 OTOLITHS (SAVED), REMAINS SAME AS ABOVE BECAUSE CANNOT DISTINGUISH REMAINS FOR THE DIFFERENT OTOLITHS"
+,,,,,,,,,,,,,,,SBK-070,4,UFR,BEN,Benthic Fish,5,well digested. few identifiable parts,,,,"2 OTOLITHS (SAVED), REMAINS SAME AS ABOVE BECAUSE CANNOT DISTINGUISH REMAINS FOR THE DIFFERENT OTOLITHS"
+,,,,,,,,,,,,,,,SBK-070,5,UFR,BEN,Benthic Fish,5,well digested. few identifiable parts,,,,"2 OTOLITHS (SAVED), REMAINS SAME AS ABOVE BECAUSE CANNOT DISTINGUISH REMAINS FOR THE DIFFERENT OTOLITHS"
+,,,,,,,,,,,,,,,SBK-070,6,UFR,BEN,Benthic Fish,5,well digested. few identifiable parts,12.4,,,"3 vertebral column W/ RIBS, RANDOM BONES AND FLESH, 2 OTOLITHS (SAVED), 16 EYE LENSES"
+SBK-071,BLL,Bottom Longline,9,5,2008,29.466,-85.833,GOM,Gulf Of Mexico,M,126, ,EEL (CUT),,SBK-071,1,UFR,BEN,Benthic Fish,5,well digested. few identifiable parts,,,,"2 OTOLITHS (SAVED), REMAINS SAME AS ABOVE BECAUSE CANNOT DISTINGUISH REMAINS FOR THE DIFFERENT OTOLITHS"
+,,,,,,,,,,,,,,,SBK-071,2,UFR,BEN,Benthic Fish,5,well digested. few identifiable parts,7.68,,,"1 OTOLITH (SAVED), 3 vertebral column W/ RIBS (LENGTHS 58, 87, AND 94 MM), FLESH, RANDOM BONES, ONE LENS, FIN SPINES"
+SBK-072,BLL,Bottom Longline,2,19,2010,29.883,-88.283,GOM,Gulf Of Mexico,M,109, ,"EEL (CUT), CATFISH (CUT), SKATE/RAY (CUT)",,SBK-072,1,UFR,UFR,Unidentifiable fish remains,3,"flesh, bones, scales etc somewhat together",6.53,,,"2 EYE LENSES, BODY OF FISH BITTEN IN HALF W/ PART OF JAW REMAINING, SCALES, FLESH AND BONES ALONG WITH FINS INTACT"
+SBK-073,GN,Gillnet,4,6,2010,30,-85.517,GOM,Gulf Of Mexico,F,144, ,N/A,,SBK-073,1,BIVALVE,MOL,Unidentifiable or other mollusc,5,well digested. few identifiable parts,0.53,,22,"ONE HALF OF BIVALVE SHELL, SMALL, SAVED"
+,,,,,,,,,,,,,,,SBK-073,2,UFR,UFR,Unidentifiable fish remains,5,well digested. few identifiable parts,2.6,,,"vertebral column, RANDOM BONES AND FIN RAYS, 1 OTOLITH (LOST), JAW FRAGMENT, 4 LENSES"
+,,,,,,,,,,,,,,,SBK-073,3,UFR,UFR,Unidentifiable fish remains,3,"flesh, bones, scales etc somewhat together",31.35,148,,"FULL LENGTH FISH W/ NO HEAD, PARTIAL DIGESTION W/ NO SCALES"
+,,,,,,,,,,,,,,,SBK-073,4,UFR,UFR,Unidentifiable fish remains,5,well digested. few identifiable parts,0.91,,,"JAW FRAGMENTS, REMAINS SAME AS ABOVE BECAUSE CANNOT DISTINGUISH REMAINS BETWEEN THE DIFFERENT JAWS"
+,,,,,,,,,,,,,,,SBK-073,5,UFR,UFR,Unidentifiable fish remains,5,well digested. few identifiable parts,0.71,,,"JAW FRAGMENTS, REMAINS SAME AS ABOVE BECAUSE CANNOT DISTINGUISH REMAINS BETWEEN THE DIFFERENT JAWS"
+SBK-074,GN,Gillnet,6,17,2010,29.617,-85,GOM,Gulf Of Mexico,M,102, ,N/A,,SBK-074,1,FAMILY ARIIDAE (CATFISH),BEN,Benthic Fish,2,"almost whole, still in large pieces",131.95,,,"BITTEN IN HALF, HEAD PORTION, LITTLE DIGESTION"
+,,,,,,,,,,,,,,,SBK-074,2,UFR,UFR,Unidentifiable fish remains,5,well digested. few identifiable parts,17.57,,,"HEAD REMAINS, 1 OTOLITH PULLED (SAVED)"

@@ -5,7 +5,7 @@ from requests.auth import HTTPBasicAuth
 class GlintError(Exception):
     pass
 
-class Glint:
+class GlintConnection:
     def __init__(self, host, username, password):
         self.host = host
         self.username = username
@@ -14,7 +14,7 @@ class Glint:
     def add_file_string(self, name, data):
         try:
             self.put_file(name, data)
-            new_file = GlintFile(self.username, name, self)
+            new_file = GlintFile(name, self)
             return new_file
         except GlintError as ge:
             print("Unable to create new file: %s" % ge)
@@ -24,7 +24,7 @@ class Glint:
             with open(path, "r") as file_handle:
                 content = file_handle.read()
                 self.put_file(name, content)
-                new_file = GlintFile(self.username, name, self)
+                new_file = GlintFile(name, self)
                 return new_file
         except GlintError as ge:
             print("Unable to create new file: %s" % ge)
@@ -60,7 +60,7 @@ class Glint:
         """
         try:
             self.verify_file(name)
-            glint_file = GlintFile(self.username, name, self)
+            glint_file = GlintFile(name, self)
             return glint_file
         except GlintError as ge:
             print("Unable to retrieve file: %s" % ge)
@@ -74,9 +74,18 @@ class Glint:
         url = "%s/%s/%s" % (self.host, self.username, name)
         data_json = { "data" : data }
         response = requests.put(url, json=data_json, auth=auth)
-        if response.status_code != 201:
+        if response.status_code != 200:
             raise GlintError("Unable to create data file. Got code %s: %s"\
                     % (response.status_code, response.text))
+        return response
+
+    def delete_file(self, name):
+        auth = self.get_auth()
+        url = "%s/%s/%s" % (self.host, self.username, name)
+        response = requests.delete(url, auth=auth)
+        if response.status_code != 204:
+            raise GlintError("Unable to delete file. Got code %s: %s" %\
+                    (response.status_code, response.text))
         return response
 
     def get_file_data(self, name, transform_query=None):
@@ -101,22 +110,27 @@ class Glint:
 
 
 class GlintFile:
-    def __init__(self, username, name, connection):
-        self.username = username
+    def __init__(self, name, connection):
         self.name = name
         self.connection = connection
 
-    def get_data(self, columns=None, data_format=None):
+    def get_data(self, columns=None, data_format=None, with_metadata=False):
         transform_query = ""
         if columns:
             transform_query = "show(%s)" % ",".join(columns)
         if data_format:
             transform_query = "%sas(%s)" % (transform_query, data_format)
+        if with_metadata:
+            transform_query = "%smd()" % transform_query
 
         return self.connection.get_file_data(self.name, transform_query).text
 
     def tag(self, attribute, metadata):
         self.connection.put_metadata(self.name, attribute, metadata)
+
+    def delete(self):
+        self.connection.delete_file(self.name)
+
 
 
 
